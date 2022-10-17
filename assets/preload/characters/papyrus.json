@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Papyrus Dance"
+		},
+		{
+			"offsets": [
+				-16,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Paps Note LEFT"
+		},
+		{
+			"offsets": [
+				15,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Paps Note DOWN"
+		},
+		{
+			"offsets": [
+				4,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Paps Note UP"
+		},
+		{
+			"offsets": [
+				-18,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Paps Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "start",
+			"loop": false,
+			"name": "Paps Start"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/papyrus",
+	"position": [
+		-90,
+		10
+	],
+	"healthicon": "paps",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
